@@ -1,5 +1,7 @@
 # DistributedAssignment2
 The video showcasing my assignment is on the report aswell.
+The code uses proper naming and is documented with comments
+
 
 first compile all of the files using javac
 the Health App interface contains all of the unique functions
