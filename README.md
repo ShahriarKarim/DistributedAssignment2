@@ -1,6 +1,6 @@
 # DistributedAssignment2
 The video showcasing my assignment is on the report aswell.
-The code uses proper naming and is documented with comments
+The java code is documented well with comments and uses proper naming of functions.
 
 
 first compile all of the files using javac
